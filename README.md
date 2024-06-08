@@ -1,3 +1,6 @@
 # 3p-glext
 
-glext header autobuild package
+[Autobuild][] packaged [glext][].
+
+[Autobuild]: https://github.com/secondlife/autobuild
+[glext]: https://registry.khronos.org/OpenGL/index_gl.php
